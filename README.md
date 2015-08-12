@@ -1,2 +1,0 @@
-# lwibkingWebsite
-Jekyll website
